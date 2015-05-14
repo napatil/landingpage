@@ -106,6 +106,10 @@ body {
 	font-size: 1.563rem;
 }
 /*Buttons*/
+.introduction .button {
+	text-align: center;
+	margin-top: 1.563rem;
+}
 .introduction button {
 	width: 9.688rem;
 	background-color: #F15A29;
@@ -114,9 +118,8 @@ body {
 	border-style: none;
 	border-radius: 4px;
 	padding: 1rem 1.5rem;
-	color: white;
 	font-size: 1.125rem;
-	text-align: center;
+	color: white;
 	display: inline-block;
 	line-height: 1.2;
 }
